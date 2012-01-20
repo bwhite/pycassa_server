@@ -1,0 +1,7 @@
+Brandyn A. White <bwhite@dappervision.com>
+
+
+Requires: bottle and gevent
+
+Usage:
+- python -m pycassa_server keyspace column_family --port 8080
